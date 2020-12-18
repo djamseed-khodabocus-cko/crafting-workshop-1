@@ -16,3 +16,19 @@ You will need too :
 
 If all this thing are too complicated, came to the workshop, you're still can came and discover how a TDD peering look like.
 Another thing, it will be great that you check with a colleague if live share work correctly.
+
+## Let's start
+
+* Fork this repository
+* Respect the TDD discpline : "You are not allowed to write production code that is not justified by a test" and make "Baby step"
+* Commit your work after each TDD loop
+* After each TDD loop, the coder switch
+
+## A classic kata for beginning with TDD : the String Calculator
+
+* We will build a program that take as an input a string that contains numbers and return the sum of this number.
+* Don't lose time with checking invalid inputs.
+* Please don't read ahead the step to follow.
+* Each step didn't match with a baby step. You can do as many baby step as you want.
+
+[Here the first step](step1.md)
